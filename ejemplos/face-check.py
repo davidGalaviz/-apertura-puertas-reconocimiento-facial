@@ -4,4 +4,4 @@ result = DeepFace.verify(img1_path = "/home/david/Documentos/Git/-apertura-puert
 
 
 print("El resultado es : ")
-print(result)
+print(result['verified'])
